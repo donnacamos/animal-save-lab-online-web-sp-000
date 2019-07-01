@@ -19,7 +19,7 @@ html {
 }
 
 /* Write your solution here */
-@media screen only (max-width: 1320px) {
+@media screen only and (max-width: 1320px) {
   #ostrich {
     
   }
